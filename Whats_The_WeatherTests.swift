@@ -2,8 +2,7 @@
 //  Whats_The_WeatherTests.swift
 //  Whats The WeatherTests
 //
-//  Created by Rob Percival on 16/01/2015.
-//  Copyright (c) 2015 Appfish. All rights reserved.
+//  Created by Todd Halkowski
 //
 
 import UIKit
